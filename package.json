@@ -1,6 +1,6 @@
 {
   "name": "platzon",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Tradcutor de idioma platzon",
   "main": "dist/src/platzon.js",
   "scripts": {
