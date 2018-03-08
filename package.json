@@ -2,9 +2,9 @@
   "name": "platzon",
   "version": "0.1.0",
   "description": "Tradcutor de idioma platzon",
-  "main": "dist/src/platzon.js",
+  "main": "dist/src/mr-platzon.js",
   "scripts": {
-    "build": "babel src/platzon.js -d dist",
+    "build": "babel src/mr-platzon.js -d dist",
     "test" : "mocha"
   },
   "repository": {
